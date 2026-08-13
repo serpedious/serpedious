@@ -1,6 +1,6 @@
 # Hi! Nice to meet you 👋
 
-I'm a freelance full-stack developer with 4+ years of professional experience, I am passionate about learning new technologies😺
+I'm a freelance full-stack developer, I am passionate about learning new technologies😺
 
 ### What I use in coding
 
